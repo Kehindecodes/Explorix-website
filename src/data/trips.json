@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/indonesia.jpg",
+        "alt":"Indonesia",
+        "name":"Tian Tan Buddha",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/newyork.jpg",
+        "alt":"NewYork",
+        "name":"Newyork City",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/paris.jpg",
+        "alt":"Tain tan Buddha",
+        "name":"Paris",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/thailand.jpg",
+        "alt":"Tain tan Buddha",
+        "name":"Thailand",
+        "button":"View Destination"
+    }
+]
